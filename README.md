@@ -1,4 +1,4 @@
-# Flyte-HelloWorkd
+# Flyte-HelloWorld
 ## Linear Regression using Flyte
 
 This example shows how [Flyte](https://docs.flyte.org/en/latest/getting_started/index.html), a Machine Learning orchestration platform is used to implement k-nearest neighbours using Python. 
