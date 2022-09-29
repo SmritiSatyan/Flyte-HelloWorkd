@@ -1,4 +1,4 @@
-# Flyte-HelloWorld
+# Hello World using Flyte
 ## k nearest neighbour using Flyte
 
 This example shows how [Flyte](https://docs.flyte.org/en/latest/getting_started/index.html), a Machine Learning orchestration platform is used to implement k-nearest neighbours using Python. 
